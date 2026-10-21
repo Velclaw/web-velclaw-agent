@@ -2,7 +2,7 @@
   <a href="https://velcli.dev/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=".github/logo-velcli.svg">
-      <img alt="eve logo" src=".github/assets/eve.svg" height="128">
+      <img alt="eve logo" src=".github/assets/logo-velcli.svg" height="128">
     </picture>
   </a>
   <h1>VelCli</h1>
